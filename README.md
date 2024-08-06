@@ -10,7 +10,7 @@ I was watching a podcast with Dr. Kailash Nadh , where he explained about the pr
 
 The main objective is to "see" the network-traffic when different types of servers serves their corresponding requests. I have written a bash script (run.sh) which will automate following steps:
 
-    - Run a HTTP server.
+    - Run an HTTP server.
     - Run a DNS server.
     - Send a curl request the HTTP server.
     - Send a dig request the DNS server.
