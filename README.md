@@ -35,11 +35,13 @@ The main objective is to "see" the network-traffic when different types of serve
 
     - Network Traffic @ the HTTP Port after the request:
     
-    ![HTTP Traffc logs](results/http_network_logs.png)
+
+![HTTP Traffic logs](results/http_network_logs.png)
 
     - Network Traffic @ the DNS Port after the request:
+    
+![DNS Traffc logs](results/dns_network_logs.png)
 
-    ![DNS Traffc logs](results/dns_network_logs.png)
 
 
 
